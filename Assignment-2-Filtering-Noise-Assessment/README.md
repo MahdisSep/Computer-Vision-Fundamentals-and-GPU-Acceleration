@@ -40,7 +40,7 @@ The comprehensive comparison demonstrated that the **Non-Local Means Denoising**
 
 1.  **Clone and Navigate:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration.git]
     cd Computer-Vision-Assignments/Assignment-2-Filtering-Noise-Assessment
     ```
 2.  **Required Files:** Ensure the `input1.txt` file and any other raw image data are present.

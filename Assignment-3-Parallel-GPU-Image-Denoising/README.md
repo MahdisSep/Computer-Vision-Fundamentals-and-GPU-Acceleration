@@ -34,13 +34,18 @@ The results clearly showed the significant performance gain offered by GPU accel
 
 > **Conclusion:** The GPU implementation provides a massive **speedup** (e.g., **$4000\times$ to $6000\times$**) compared to the CPU version for the same image quality, underscoring the necessity of parallel computing for real-time and large-scale image processing applications.
 
+![images](https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration/blob/main/Assignment-3-Parallel-GPU-Image-Denoising/results/bird.jpg)
+![images](https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration/blob/main/Assignment-3-Parallel-GPU-Image-Denoising/results/vegetables.jpg)
+![images](https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration/blob/main/Assignment-3-Parallel-GPU-Image-Denoising/results/woman.jpg)
+![images](https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration/blob/main/Assignment-3-Parallel-GPU-Image-Denoising/results/results1.png)
+
 ---
 
 ### **To Run This Project:**
 
 1.  **Clone and Navigate:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration.git]
     cd Computer-Vision-Assignments/Assignment-3-Parallel-GPU-Image-Denoising
     ```
 2.  **Dependencies:** This project requires `PyCUDA` and a compatible NVIDIA driver/toolkit. It's best run in an environment that supports GPU acceleration (e.g., Google Colab with a GPU runtime).

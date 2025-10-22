@@ -34,7 +34,7 @@ The pipeline successfully demonstrates the effectiveness of classical image proc
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration.git]
     cd Computer-Vision-Assignments/Assignment-1-License-Plate-OCR
     ```
 2.  **Install Dependencies:**
