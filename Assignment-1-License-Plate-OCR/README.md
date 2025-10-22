@@ -23,6 +23,11 @@ The recognition process is broken down into the following sequential steps, as d
 
 The pipeline successfully demonstrates the effectiveness of classical image processing in preparing an image for accurate OCR. The use of adaptive thresholding and morphological closing proved critical in ensuring that the Tesseract engine could reliably extract the text, even from images with moderate noise.
 
+![images](https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration/blob/main/Assignment-1-License-Plate-OCR/results/car.jpg)
+![images](https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration/blob/main/Assignment-1-License-Plate-OCR/results/results1.png)
+
+-----
+
 ---
 
 ### **To Run This Project:**

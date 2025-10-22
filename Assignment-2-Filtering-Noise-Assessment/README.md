@@ -31,6 +31,9 @@ To objectively evaluate the performance of each filter, two primary quality metr
 ## ✨ Results Highlights
 The comprehensive comparison demonstrated that the **Non-Local Means Denoising** method achieved the highest SSIM and PSNR values across different noise levels, confirming its superiority over simple spatial filters for preserving important image structure while removing noise.
 
+![images](https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration/blob/main/Assignment-2-Filtering-Noise-Assessment/results/results1.png)
+![images](https://github.com/MahdisSep/Computer-Vision-Fundamentals-and-GPU-Acceleration/blob/main/Assignment-2-Filtering-Noise-Assessment/results/results2.png)
+
 ---
 
 ### **To Run This Project:**
